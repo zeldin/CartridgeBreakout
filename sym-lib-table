@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name CartridgeBreakout-rescue)(type Legacy)(uri ${KIPRJMOD}/CartridgeBreakout-rescue.lib)(options "")(descr ""))
-)
