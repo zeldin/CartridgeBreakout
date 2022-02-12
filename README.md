@@ -37,4 +37,5 @@ Features
 Documentation
 -------------
 
+**[Building instructions](doc/Building.md)**  
 **[User manual](doc/UserManual.md)**

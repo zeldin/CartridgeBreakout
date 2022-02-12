@@ -844,8 +844,8 @@
       (net 23 "/B1_0") (tstamp e7d81bce-286e-41e4-9181-3511e9c0455e))
     (pad "Z" thru_hole oval locked (at 4.8514 53.34) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 3 "GND") (tstamp 3a41dd27-ec14-44d5-b505-aad1d829f79a))
-    (model "${KIPRJMOD}/packages3d/c-5530843-4-f-3d.stp"
-      (offset (xyz 2.413 -26.67 13.97))
+    (model "${KIPRJMOD}/packages3d/5530843-4.wrl"
+      (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
     )
@@ -1450,10 +1450,10 @@
       (net 3 "GND") (tstamp db36f6e3-e72a-487f-bda9-88cc84536f62))
     (pad "10" smd rect locked (at -2.54 2 180) (size 0.74 2.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 68 "/B3_0") (tstamp e4c6fdbb-fdc7-4ad4-a516-240d84cdc120))
-    (model "${KIPRJMOD}/packages3d/FTSH-105-01-L-DV-K-TR.stp"
-      (offset (xyz 0 0 0.39878))
+    (model "${KIPRJMOD}/packages3d/FTSH-105-01-K.wrl"
+      (offset (xyz 2.54 0.635 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 180))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -1492,10 +1492,10 @@
       (net 70 "+5V") (tstamp c144caa5-b0d4-4cef-840a-d4ad178a2102))
     (pad "2" thru_hole circle locked (at 3.500002 0 180) (size 1.778 1.778) (drill 1.27) (layers *.Cu *.Mask)
       (net 3 "GND") (tstamp efeac2a2-7682-4dc7-83ee-f6f1b23da506))
-    (model "${KIPRJMOD}/packages3d/c-284512-2-e1-3d.stp"
-      (offset (xyz 1.778 -8.001 3.048))
+    (model "${KIPRJMOD}/packages3d/796695-2.wrl"
+      (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 0))
+      (rotate (xyz 0 0 0))
     )
   )
 
